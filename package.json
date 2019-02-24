@@ -2,7 +2,7 @@
   "name": "learn-redux",
   "version": "0.0.3",
   "description": ":) ",
-  "main": "./client/reduxstagram.js",
+  "main": "./src/client/reduxstagram.js",
   "scripts": {
     "start": "node devServer.js",
     "build": "npm run clean && npm run build:webpack",
