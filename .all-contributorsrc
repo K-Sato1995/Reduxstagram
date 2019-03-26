@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mralwin",
+      "name": "Owen Thiele",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26689450?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Reduxstagram",
+  "projectOwner": "mralwin",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
